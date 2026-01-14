@@ -1,48 +1,102 @@
-🧠 LeetCode Çözümleri
-Bu repository, LeetCode üzerinde çözdüğüm algoritma ve veri yapısı problemlerinin bir araya toplandığı projedir. Her çözüm problemi kolay takip edebilmen için ilgili klasörler içinde tutulmaktadır.
+# 🧠 LeetCode Çözümleri
 
-📌 İçindekiler
+Bu repository, **LeetCode** üzerinde çözdüğüm algoritma ve veri yapısı problemlerinin bir araya toplandığı projedir. Her çözüm problemi kolay takip edebilmen için ilgili klasörler içinde tutulmaktadır.
+
+
+
+
+---
+
+## 📌 İçindekiler
+
 Bu repo aşağıdaki ana klasörlerden oluşur:
 
-Algorithms – Algoritma problemleri çözümleri
-dataStructure – Veri yapılarıyla ilgili çözümler
-database – SQL / Veritabanı problemleri çözümleri
+
+
+
+
+* **Algorithms** – Algoritma problemleri çözümleri
+* **dataStructure** – Veri yapılarıyla ilgili çözümler
+* **database** – SQL / Veritabanı problemleri çözümleri
+
 Her klasör içerisinde probleme özel çözüm dosyaları bulunmaktadır.
 
-🚀 Başlangıç
+---
+
+## 🚀 Başlangıç
+
+
+
+
+
+
 Projeyi yerel bilgisayarına klonlamak için:
 
+```bash
 git clone https://github.com/Burhan0664/leetCode.git
+```
+
 Klassör yapısı sayesinde çözümleri kolayca bulup inceleyebilirsin. Çözümler genellikle C# dili ile yazılmıştır (repo dili %100 C#). ([GitHub][1])
 
-📁 Klasör Yapısı
+
+
+
+---
+
+## 📁 Klasör Yapısı
+
 Aşağıdaki gibi bir genel yapı bekleyebilirsin:
 
+```
 leetCode/
 ├── Algorithms/
 ├── dataStructure/
 ├── database/
 └── README.md
-Algorithms/ – LeetCode algoritma problemleri
-dataStructure/ – Listeler, ağaçlar vb. veri yapısı çözümleri
-database/ – SQL / database odaklı LeetCode soruları ([GitHub][1])
-🛠️ Kullanım
+```
+
+* **Algorithms/** – LeetCode algoritma problemleri
+* **dataStructure/** – Listeler, ağaçlar vb. veri yapısı çözümleri
+* **database/** – SQL / database odaklı LeetCode soruları ([GitHub][1])
+
+---
+
+## 🛠️ Kullanım
+
 Her problem genellikle tek bir dosya olarak tutulur ve içinde:
 
-Problem açıklaması
-Çözüm kodu
-(Bazı durumlarda) Yorumlar ile açıklama bulunur
+
+
+
+
+
+
+* Problem açıklaması
+* Çözüm kodu
+* (Bazı durumlarda) Yorumlar ile açıklama bulunur
+
 Projeyi kendi bilgisayarında açtıktan sonra Visual Studio, VS Code veya .NET CLI ile çalıştırabilirsin.
 
 Örnek:
 
+```bash
 cd Algorithms
 dotnet run SolutionFile.cs
-🧩 Hedef
+```
+
+---
+
+## 🧩 Hedef
+
+
+
+
+
 Bu repository:
 
-Problem çözme becerilerimi geliştirmek
-Algorithm & data yapıları pratiği
-Teknik mülakatlara hazırlık
-Çözümleri açık, takip edilebilir şekilde saklamak
+* **Problem çözme becerilerimi geliştirmek**
+* Algorithm & data yapıları pratiği
+* Teknik mülakatlara hazırlık
+* Çözümleri açık, takip edilebilir şekilde saklamak
+
 amacıyla oluşturulmuştur.
