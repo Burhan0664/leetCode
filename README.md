@@ -1,9 +1,7 @@
-# 🚀 TekinSpot_2 – SEO, CDN & Google Ads Optimizasyon Projesi
+# 🚀 TekinSpot_2 – SEO, CDN & Google Ads Optimizasyon Projesi, Web Performans Optimizasyon
 
 Bu repository, **[www.ikincielankaraspot.com](https://www.ikincielankaraspot.com)** web sitesi için yapılan **site performans iyileştirmeleri**, **CDN entegrasyonu**, **SEO çalışmaları** ve **Google Ads kampanya oluşturma** süreçlerini kapsayan projeyi içermektedir.
 
-Projede herhangi bir **API Key**, **otomasyon** veya **harici servis entegrasyonu** bulunmamaktadır.  
-Tüm çalışmalar site üzerinde ve **Google Ads paneli** üzerinden **manuel ve stratejik** olarak gerçekleştirilmiştir.
 
 ---
 
