@@ -1,0 +1,4 @@
+C:\Users\burha\source\repos\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burha\source\repos\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfoInputs.cache
+C:\Users\burha\source\repos\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfo.cs
+C:\Users\burha\source\repos\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.csproj.CoreCompileInputs.cache
