@@ -1,81 +1,102 @@
-# 🧠 LeetCode Çözümleri
+# 🚀 TekinSpot_2 – SEO, CDN & Google Ads Optimizasyon Projesi
 
-Bu repository, **LeetCode** üzerinde çözdüğüm algoritma ve veri yapısı problemlerinin bir araya toplandığı projedir. Her çözüm problemi kolay takip edebilmen için ilgili klasörler içinde tutulmaktadır.
+Bu repository, **[www.ikincielankaraspot.com](https://www.ikincielankaraspot.com)** web sitesi için yapılan **site performans iyileştirmeleri**, **CDN entegrasyonu**, **SEO çalışmaları** ve **Google Ads kampanya oluşturma** süreçlerini kapsayan projeyi içermektedir.
 
----
-
-## 📌 İçindekiler
-
-Bu repo aşağıdaki ana klasörlerden oluşur:
-
-* **Algorithms** – Algoritma problemleri çözümleri
-* **dataStructure** – Veri yapılarıyla ilgili çözümler
-* **database** – SQL / Veritabanı problemleri çözümleri
-
-Her klasör içerisinde probleme özel çözüm dosyaları bulunmaktadır.
+Projede herhangi bir **API Key**, **otomasyon** veya **harici servis entegrasyonu** bulunmamaktadır.  
+Tüm çalışmalar site üzerinde ve **Google Ads paneli** üzerinden **manuel ve stratejik** olarak gerçekleştirilmiştir.
 
 ---
 
-## 🚀 Başlangıç
+## 📌 Proje Amacı
 
-Projeyi yerel bilgisayarına klonlamak için:
-
-```bash
-git clone https://github.com/Burhan0664/leetCode.git
-```
-
-Klassör yapısı sayesinde çözümleri kolayca bulup inceleyebilirsin. Çözümler genellikle C# dili ile yazılmıştır (repo dili %100 C#). ([GitHub][1])
+- Web sitesinin yüklenme hızını artırmak  
+- CDN kullanımı ile içerikleri daha hızlı sunmak  
+- SEO uyumunu güçlendirmek  
+- Google Ads kampanyaları ile hedefli trafik elde etmek  
+- Kullanıcı deneyimini ve dönüşüm oranlarını artırmak  
 
 ---
 
-## 📁 Klasör Yapısı
+## ⚙️ Yapılan Çalışmalar
 
-Aşağıdaki gibi bir genel yapı bekleyebilirsin:
+### ⚡ Site Performans İyileştirmeleri
 
-```
-leetCode/
-├── Algorithms/
-├── dataStructure/
-├── database/
-└── README.md
-```
-
-* **Algorithms/** – LeetCode algoritma problemleri
-* **dataStructure/** – Listeler, ağaçlar vb. veri yapısı çözümleri
-* **database/** – SQL / database odaklı LeetCode soruları ([GitHub][1])
+- Sayfa yüklenme süreleri optimize edildi  
+- Gereksiz HTML, CSS ve JavaScript yükleri azaltıldı  
+- Render-blocking kaynaklar düzenlendi  
+- Lazy loading işlemleri uygulandı  
+- Görseller WebP ve AVIF formatlarına dönüştürüldü  
+- Mobil ve masaüstü PageSpeed skorları iyileştirildi  
 
 ---
 
-## 🛠️ Kullanım
+### 🌍 CDN (Content Delivery Network) Çalışmaları
 
-Her problem genellikle tek bir dosya olarak tutulur ve içinde:
-
-* Problem açıklaması
-* Çözüm kodu
-* (Bazı durumlarda) Yorumlar ile açıklama bulunur
-
-Projeyi kendi bilgisayarında açtıktan sonra Visual Studio, VS Code veya .NET CLI ile çalıştırabilirsin.
-
-Örnek:
-
-```bash
-cd Algorithms
-dotnet run SolutionFile.cs
-```
+- Statik dosyalar (CSS, JS, görseller) CDN üzerinden sunulacak şekilde yapılandırıldı  
+- Sunucu yükü azaltıldı  
+- Farklı lokasyonlardan gelen kullanıcılar için daha hızlı erişim sağlandı  
+- Sayfa açılış süreleri ve Core Web Vitals metrikleri iyileştirildi  
 
 ---
 
-## 🧩 Hedef
+### 🔍 SEO (Search Engine Optimization) Çalışmaları
 
-Bu repository:
+Aşağıdaki SEO elementleri düzenlenmiş ve optimize edilmiştir:
 
-* **Problem çözme becerilerimi geliştirmek**
-* Algorithm & data yapıları pratiği
-* Teknik mülakatlara hazırlık
-* Çözümleri açık, takip edilebilir şekilde saklamak
+- Title ve meta description etiketleri  
+- H1 – H6 heading yapıları  
+- SEO uyumlu URL yapısı  
+- Anahtar kelime odaklı içerik düzenlemeleri  
+- Görseller için alt etiketleri  
+- Sayfa içi (On-Page SEO) optimizasyonları  
 
-amacıyla oluşturulmuştur.
+**Amaç:** Arama motorlarında organik görünürlüğü artırmak.
 
 ---
 
+### 📣 Google Ads Kampanya Çalışmaları
 
+- Google Ads arama ağı kampanyaları oluşturuldu  
+- Hedef anahtar kelimeler belirlendi  
+- Tıklama odaklı reklam metinleri yazıldı  
+- Reklam – açılış sayfası uyumu sağlandı  
+- Bölgesel hedefleme ile doğru kullanıcı kitlesine ulaşıldı  
+- Kampanyalar manuel olarak Google Ads paneli üzerinden yönetildi  
+- Google Analytics entegrasyonu yapıldı  
+
+---
+
+## 🧩 Proje Kapsamı
+
+Bu repo, aşağıdaki dijital pazarlama ve optimizasyon çalışmalarını temsil eder:
+
+- CDN tabanlı hızlandırma  
+- Site performans optimizasyonu  
+- SEO altyapı ve içerik düzenlemeleri  
+- Google Ads kampanya stratejisi ve kurulumu  
+
+---
+
+## 🎯 Hedef Kitle
+
+- İkinci el eşya arayan kullanıcılar  
+- Ankara ve çevresine odaklı ziyaretçiler  
+- Google üzerinden aktif arama yapan potansiyel müşteriler  
+
+---
+
+## 📈 Elde Edilen Kazanımlar
+
+- Daha hızlı açılan web sayfaları  
+- CDN sayesinde düşük gecikme süresi  
+- SEO uyumlu ve indekslenebilir yapı  
+- Google Ads ile hedefli ve kaliteli trafik  
+- Artan kullanıcı deneyimi ve görünürlük  
+- Web performans artışı (PageSpeed)  
+- Mobil uyumlu yapı  
+
+---
+
+## 📄 Lisans
+
+Bu proje portföy ve referans amaçlı paylaşılmaktadır.
