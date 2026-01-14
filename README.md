@@ -12,7 +12,7 @@ Bu repo aşağıdaki ana klasörlerden oluşur:
 * **dataStructure** – Veri yapılarıyla ilgili çözümler
 * **database** – SQL / Veritabanı problemleri çözümleri
 
-Her klasör içerisinde probleme özel çözüm dosyaları bulunmaktadır. ([GitHub][1])
+Her klasör içerisinde probleme özel çözüm dosyaları bulunmaktadır.
 
 ---
 
