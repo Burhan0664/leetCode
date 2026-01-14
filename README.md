@@ -36,7 +36,7 @@ Projeyi yerel bilgisayarına klonlamak için:
 git clone https://github.com/Burhan0664/leetCode.git
 ```
 
-Klassör yapısı sayesinde çözümleri kolayca bulup inceleyebilirsin. Çözümler genellikle C# dili ile yazılmıştır (repo dili %100 C#).
+Klassör yapısı sayesinde çözümleri kolayca bulup inceleyebilirsin. Çözümler genellikle C# dili ile yazılmıştır.
 
 
 
