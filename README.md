@@ -95,6 +95,4 @@ Bu repo, aşağıdaki dijital pazarlama ve optimizasyon çalışmalarını temsi
 
 ---
 
-## 📄 Lisans
 
-Bu proje portföy ve referans amaçlı paylaşılmaktadır.
