@@ -57,7 +57,7 @@ leetCode/
 
 * **Algorithms/** – LeetCode algoritma problemleri
 * **dataStructure/** – Listeler, ağaçlar vb. veri yapısı çözümleri
-* **database/** – SQL / database odaklı LeetCode soruları ([GitHub][1])
+* **database/** – SQL / database odaklı LeetCode soruları 
 
 ---
 
