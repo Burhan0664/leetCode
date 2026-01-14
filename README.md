@@ -74,7 +74,7 @@ Bu repository:
 * Teknik mülakatlara hazırlık
 * Çözümleri açık, takip edilebilir şekilde saklamak
 
-amacıyla oluşturulmuştur. ([GitHub][2])
+amacıyla oluşturulmuştur.
 
 ---
 
