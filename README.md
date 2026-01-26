@@ -100,3 +100,11 @@ Bu repository:
 * Çözümleri açık, takip edilebilir şekilde saklamak
 
 amacıyla oluşturulmuştur.
+
+
+## 👨‍💻 Geliştirici
+
+**Burhan Çavdaroğlu**
+📍 Ankara, Türkiye
+🔗 LinkedIn: [https://linkedin.com/in/burhancavdaroglu](https://www.linkedin.com/in/burhancavdaroglu/)
+
