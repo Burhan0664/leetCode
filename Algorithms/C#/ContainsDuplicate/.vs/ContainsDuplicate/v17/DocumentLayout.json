@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burha\\source\\repos\\ContainsDuplicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2D741-3FE8-4BD2-B423-6FB9723F45BD}|ContainsDuplicate\\ContainsDuplicate.csproj|c:\\users\\burha\\source\\repos\\containsduplicate\\containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2D741-3FE8-4BD2-B423-6FB9723F45BD}|ContainsDuplicate\\ContainsDuplicate.csproj|solutionrelative:containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burha\\source\\repos\\ContainsDuplicate\\ContainsDuplicate\\Program.cs",
+              "RelativeDocumentMoniker": "ContainsDuplicate\\Program.cs",
+              "ToolTip": "C:\\Users\\burha\\source\\repos\\ContainsDuplicate\\ContainsDuplicate\\Program.cs",
+              "RelativeToolTip": "ContainsDuplicate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:01:15.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
