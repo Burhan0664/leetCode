@@ -1,0 +1,4 @@
+C:\Users\burha\source\repos\NumberOfOneBits\NumberOfOneBits\obj\Debug\net8.0\NumberOfOneBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burha\source\repos\NumberOfOneBits\NumberOfOneBits\obj\Debug\net8.0\NumberOfOneBits.AssemblyInfoInputs.cache
+C:\Users\burha\source\repos\NumberOfOneBits\NumberOfOneBits\obj\Debug\net8.0\NumberOfOneBits.AssemblyInfo.cs
+C:\Users\burha\source\repos\NumberOfOneBits\NumberOfOneBits\obj\Debug\net8.0\NumberOfOneBits.csproj.CoreCompileInputs.cache
