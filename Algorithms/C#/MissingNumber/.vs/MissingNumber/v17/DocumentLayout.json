@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burha\\source\\repos\\MissingNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E8583-38BF-4C28-BE8D-EE884C2C6909}|MissingNumber\\MissingNumber.csproj|c:\\users\\burha\\source\\repos\\missingnumber\\missingnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9E8583-38BF-4C28-BE8D-EE884C2C6909}|MissingNumber\\MissingNumber.csproj|solutionrelative:missingnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burha\\source\\repos\\MissingNumber\\MissingNumber\\Program.cs",
+              "RelativeDocumentMoniker": "MissingNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\burha\\source\\repos\\MissingNumber\\MissingNumber\\Program.cs",
+              "RelativeToolTip": "MissingNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:35:58.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
