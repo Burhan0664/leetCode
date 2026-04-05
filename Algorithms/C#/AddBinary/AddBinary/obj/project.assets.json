@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burha\\source\\repos\\AddBinary\\AddBinary\\AddBinary.csproj",
+      "projectUniqueName": "C:\\Users\\burha\\OneDrive\\Projects\\leetCode\\Algorithms\\C#\\AddBinary\\AddBinary\\AddBinary.csproj",
       "projectName": "AddBinary",
-      "projectPath": "C:\\Users\\burha\\source\\repos\\AddBinary\\AddBinary\\AddBinary.csproj",
+      "projectPath": "C:\\Users\\burha\\OneDrive\\Projects\\leetCode\\Algorithms\\C#\\AddBinary\\AddBinary\\AddBinary.csproj",
       "packagesPath": "C:\\Users\\burha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burha\\source\\repos\\AddBinary\\AddBinary\\obj\\",
+      "outputPath": "C:\\Users\\burha\\OneDrive\\Projects\\leetCode\\Algorithms\\C#\\AddBinary\\AddBinary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
