@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burha\\OneDrive\\Projects\\leetCode\\dataStructure\\MinDepth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B814064E-40D2-405E-95CB-2C97F1C8743F}|MinDepth\\MinDepth.csproj|c:\\users\\burha\\onedrive\\projects\\leetcode\\datastructure\\mindepth\\mindepth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B814064E-40D2-405E-95CB-2C97F1C8743F}|MinDepth\\MinDepth.csproj|solutionrelative:mindepth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burha\\OneDrive\\Projects\\leetCode\\dataStructure\\MinDepth\\MinDepth\\Program.cs",
+              "RelativeDocumentMoniker": "MinDepth\\Program.cs",
+              "ToolTip": "C:\\Users\\burha\\OneDrive\\Projects\\leetCode\\dataStructure\\MinDepth\\MinDepth\\Program.cs",
+              "RelativeToolTip": "MinDepth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:00:02.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

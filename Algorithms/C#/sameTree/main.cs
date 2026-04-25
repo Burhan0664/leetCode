@@ -1,31 +1,29 @@
+
+using System.Runtime.CompilerServices;
+
 /**
  * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left;
+ *     public TreeNode right;
+ *     public TreeNode(int val=0, TreeNode left=null, TreeNode right=null) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
  */
-class Solution {
-public:
-    bool isSameTree(TreeNode* p, TreeNode* q) {
+public class Solution
+{
+    public bool IsSameTree(TreeNode p, TreeNode q)
+    {
+        if (p == null && q== null) return true;
+        if (p == null || q == null) return false;
+        if (p.val != q.val) return false;
         
-       if (p == nullptr && q == nullptr) {
-            return true;
-        }
-
-        // If one of the pointers is null and the other is not, they are not equal
-        if (p == nullptr || q == nullptr) {
-            return false;
-        }
-
-        // Check the current node values and recursively check left and right subtrees
-        return (p->val == q->val) &&
-               isSameTree(p->left, q->left) &&
-               isSameTree(p->right, q->right);
+        return IsSameTree(p.left, q.left) && IsSameTree(p.right,q.right);
     }
+    
 
-};
+}
