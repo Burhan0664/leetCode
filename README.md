@@ -75,7 +75,7 @@ Her problem genellikle tek bir dosya olarak tutulur ve içinde:
 * Çözüm kodu
 * (Bazı durumlarda) Yorumlar ile açıklama bulunur
 
-Projeyi kendi bilgisayarında açtıktan sonra Visual Studio, VS Code veya .NET CLI ile çalıştırabilirsin.
+Projeyi kendi bilgisayarında açtıktan sonra Visual Studio, VS Code veya .Net CLI ile çalıştırabilirsin.
 
 Örnek:
 
@@ -95,7 +95,7 @@ dotnet run SolutionFile.cs
 Bu repository:
 
 * **Problem çözme becerilerimi geliştirmek**
-* Algorithm & data yapıları pratiği
+* Algoritma & veri yapıları pratiği
 * Teknik mülakatlara hazırlık
 * Çözümleri açık, takip edilebilir şekilde saklamak
 
