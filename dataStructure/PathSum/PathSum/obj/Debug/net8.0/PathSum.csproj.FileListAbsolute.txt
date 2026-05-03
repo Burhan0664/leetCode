@@ -1,0 +1,4 @@
+C:\Users\burha\source\repos\PathSum\PathSum\obj\Debug\net8.0\PathSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burha\source\repos\PathSum\PathSum\obj\Debug\net8.0\PathSum.AssemblyInfoInputs.cache
+C:\Users\burha\source\repos\PathSum\PathSum\obj\Debug\net8.0\PathSum.AssemblyInfo.cs
+C:\Users\burha\source\repos\PathSum\PathSum\obj\Debug\net8.0\PathSum.csproj.CoreCompileInputs.cache
